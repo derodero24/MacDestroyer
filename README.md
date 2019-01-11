@@ -1,1 +1,3 @@
-# MacDestroyer
+# 「rm -rf /」ドッキリ
+
+![](rm.gif)
